@@ -1,22 +1,14 @@
-# Wenhao Yu
+# Hi, I'm Wenhao Yu, you can also call me Bryan.
 
-**AI Product Manager building industrial AI agents, ontology systems, and vibe-coded product prototypes.**
+I use GitHub as a public workspace for AI product experiments, agentic prototypes, and product thinking around industrial knowledge work.
 
-I focus on the intersection of **AI product management**, **industrial knowledge work**, **ontology-driven systems**, and **agentic workflows**.
+Most of my detailed case studies, project write-ups, and portfolio content live on my personal website.
 
-I use GitHub as a lightweight AI PM portfolio — showing how product thinking, knowledge modeling, agent workflows, and rapid prototyping can come together through public projects.
+## What I explore here
 
-## Current Focus
-
-* Industrial AI agents
-* Ontology-driven product systems
-* Agentic workflow design
-* AI PM tooling
-* Vibe coding / harness engineering
-* Building in public
-
-## More
-
-* [Personal Website](https://wenhaoyu-bryan.github.io)
-* [X / Twitter](https://x.com/WENHAOYU8)
-* [LinkedIn](https://www.linkedin.com/in/wenhaoyu-bryan)
+- AI product management
+- Industrial AI agents
+- Ontology-driven workflows
+- Agentic product systems
+- Vibe-coded prototypes
+- Building in public
