@@ -9,7 +9,7 @@
   <p>
     <a href="https://wenhaoyu-bryan.github.io/">website</a> ·
     <a href="https://wenhaoyu-bryan.github.io/projects/">projects</a> ·
-    <a href="https://wenhaoyu-bryan.github.io/playbook/">playbook</a> ·
+    <a href="https://wenhaoyu-bryan.github.io/about/manifesto/">how I build</a> ·
     <a href="https://wenhaoyu-bryan.github.io/now/">now</a> ·
     <a href="https://www.linkedin.com/in/wenhaoyu-bryan/">LinkedIn</a> ·
     <a href="https://x.com/WENHAOYU8">X</a>
@@ -45,7 +45,7 @@ A few principles guide what I build:
 
 - **Model before prompting**: define objects, relationships, constraints, and actions before asking an agent to build
 - **Prototype the boundary**: make permissions, failure states, and human review visible early
-- **Ship inspectable artifacts**: prefer working demos, traces, playbooks, and clear notes over claims
+- **Ship inspectable artifacts**: prefer working demos, traces, methods, and clear notes over claims
 
 ## How I work
 
@@ -55,9 +55,9 @@ I use AI coding agents to shorten the distance between product intent and a test
 
 ## On this profile
 
-GitHub is my public workspace for experiments, working prototypes, and reusable artifacts. My [personal website](https://wenhaoyu-bryan.github.io/) holds the longer case studies, current work, playbooks, and writing. Some professional details stay abstracted to protect confidential data and systems.
+GitHub is my public workspace for experiments, working prototypes, and reusable artifacts. My [personal website](https://wenhaoyu-bryan.github.io/) holds the longer case studies, current work, methods, and writing. Some professional details stay abstracted to protect confidential data and systems.
 
-[Projects](https://wenhaoyu-bryan.github.io/projects/) · [Work](https://wenhaoyu-bryan.github.io/work/) · [Playbook](https://wenhaoyu-bryan.github.io/playbook/) · [Now](https://wenhaoyu-bryan.github.io/now/) · [中文介绍](https://wenhaoyu-bryan.github.io/zh/about/)
+[Projects](https://wenhaoyu-bryan.github.io/projects/) · [Work](https://wenhaoyu-bryan.github.io/work/) · [How I Build](https://wenhaoyu-bryan.github.io/about/manifesto/) · [Now](https://wenhaoyu-bryan.github.io/now/) · [中文介绍](https://wenhaoyu-bryan.github.io/zh/about/)
 
 ## Connect
 
