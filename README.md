@@ -2,10 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" />
-    <img src="./assets/profile-banner-light.svg" alt="Business context to domain model to agent workflow" />
+    <img src="./assets/profile-banner-light.svg" alt="Current work at TCL: enterprise Agent platform product design and industrial ontology platform design research" />
   </picture>
   <h1>Wenhao Yu · Bryan</h1>
-  <p><strong>From enterprise data to reviewable agent workflows.</strong></p>
   <p>
     <a href="https://wenhaoyu-bryan.github.io/">Portfolio</a> ·
     <a href="https://www.linkedin.com/in/wenhaoyu-bryan/">LinkedIn</a> ·
@@ -13,7 +12,7 @@
   </p>
 </div>
 
-I work on enterprise agent products in advanced manufacturing. My public projects let me test how data models, rules, evidence, and human review fit together.
+At TCL, I lead product design for an enterprise Agent platform and contribute to the design and research of an industrial ontology platform. My independent projects, Prompt-to-Ontology and Agent Anatomy, are smaller public experiments in graph modeling, review, and understanding how agents behave.
 
 ## Selected projects
 
